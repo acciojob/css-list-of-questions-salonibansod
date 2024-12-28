@@ -1,9 +1,3 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  margin: 0;
-  padding: 20px;
-}
 
 .questions {
   background-color: #f8fffe;
@@ -12,8 +6,6 @@ body {
   padding: 15px;
   max-width: 600px;
   border-left: 8px solid green;
-  display: flex;
-  align-items: center; /* Ensures the question text is vertically centered */
 }
 
 
